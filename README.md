@@ -1,2 +1,2 @@
-# JavaScript
- Exercícios em JavaScript.
+# curso javascript
+ Arquivos referente ao curso de JS (JavaScript).
